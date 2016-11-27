@@ -1,0 +1,3 @@
+documentRootDirectory:/home/jan/2015-2016 Wintersemester/DV1457 H15 Lp1 Programmering in UNIX-miljö (campus)/Lab assignments/Lab assignment 2/project/www
+port:8080
+requestHandlingMethod:fork

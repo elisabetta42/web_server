@@ -1,0 +1,62 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<title></title>
+	<meta name="generator" content="LibreOffice 4.2.6.3 (Linux)">
+	<meta name="author" content="Elisabetta ">
+	<meta name="created" content="20150924;182204675831296">
+	<meta name="changedby" content="Elisabetta ">
+	<meta name="changed" content="20150924;182230117909096">
+	<style type="text/css">
+	<!--
+		@page { margin: 2cm }
+		p { margin-bottom: 0.25cm; line-height: 120% }
+	-->
+	</style>
+</head>
+<body lang="it-IT" dir="ltr">
+<p>&lt;HTML&gt; 
+</p>
+<p>&lt;HEAD&gt; 
+</p>
+<p>&lt;TITLE&gt;Your Title Here&lt;/TITLE&gt; 
+</p>
+<p>&lt;/HEAD&gt; 
+</p>
+<p>&lt;BODY BGCOLOR=&quot;FFFFFF&quot;&gt; 
+</p>
+<p>&lt;CENTER&gt;&lt;IMG SRC=&quot;clouds.jpg&quot; ALIGN=&quot;BOTTOM&quot;&gt;
+&lt;/CENTER&gt; 
+</p>
+<p>&lt;HR&gt; 
+</p>
+<p>&lt;a href=&quot;http://somegreatsite.com&quot;&gt;Link Name&lt;/a&gt;
+</p>
+<p>is a link to another nifty site 
+</p>
+<p>&lt;H1&gt;This is a Header&lt;/H1&gt; 
+</p>
+<p>&lt;H2&gt;This is a Medium Header&lt;/H2&gt; 
+</p>
+<p>Send me mail at &lt;a href=&quot;mailto:support@yourcompany.com&quot;&gt;</p>
+<p>support@yourcompany.com&lt;/a&gt;. 
+</p>
+<p>&lt;P&gt; This is a new paragraph! 
+</p>
+<p>&lt;P&gt; &lt;B&gt;This is a new paragraph!&lt;/B&gt; 
+</p>
+<p>&lt;BR&gt; &lt;B&gt;&lt;I&gt;This is a new sentence without a
+paragraph break, in bold italics.&lt;/I&gt;&lt;/B&gt; 
+</p>
+<p>&lt;HR&gt; 
+</p>
+<p>&lt;/BODY&gt; 
+</p>
+<p>&lt;/HTML&gt; 
+</p>
+<p>&nbsp;</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br>
+</p>
+</body>
+</html>
